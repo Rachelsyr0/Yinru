@@ -1,4 +1,4 @@
-# SYR Portfolio
+# Portfolio
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-02.png)
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-03.png)
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-04.png)
@@ -34,5 +34,4 @@
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-34.png)
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-35.png)
 ![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-36.png)
-![Alt text](https://github.com/Rachelsyr0/Portfolio/blob/master/portfolio/portfolio-01.png)
 
